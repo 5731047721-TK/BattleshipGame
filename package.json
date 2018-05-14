@@ -1,0 +1,27 @@
+{
+  "name": "thana",
+  "version": "1.0.0",
+  "description": "Battleship Game",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  },
+  "scripts": {
+    "test": "mocha --timeout 20000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "inmemory_8566@hotmail.com"
+  },
+  "keywords": [
+    "game",
+    "nodejs",
+    "mocha"
+  ],
+  "author": "Thana",
+  "license": "ISC"
+}
